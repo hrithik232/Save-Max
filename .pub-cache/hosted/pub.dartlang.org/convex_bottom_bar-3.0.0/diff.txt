@@ -1,0 +1,19 @@
+diff --git a/lib/src/bar.dart b/lib/src/bar.dart
+index c19df42..824843c 100644
+--- a/lib/src/bar.dart
++++ b/lib/src/bar.dart
+@@ -123,8 +123,14 @@ class ConvexAppBar extends StatefulWidget {
+ 
+   /// The initial active index, you can config initialIndex of [TabController] if work with [TabBarView] or [PageView].
+   /// If controller exists, use controller.index instead of initialActiveIndex.
++  /// [initialActiveIndex] is only used for initial once, when [currentIndex] works for each rebuild.
++  @Deprecated('Use currentIndex instead of initialActiveIndex if you are using BLOC pattern.')
+   final int initialActiveIndex;
+ 
++  /// The index into [items] for the current active [TabItem].
++  /// [currentIndex] will ignore the value of [initialActiveIndex]
++  final int currentIndex;
++
+   /// Disable access of DefaultTabController to avoid unexpected conflict.
+   final bool disableDefaultTabController;
+ 

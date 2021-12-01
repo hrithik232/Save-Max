@@ -1,0 +1,7 @@
+packages/
+/test/packages
+/.project
+/pubspec.lock
+out/
+.packages
+.dart_tool

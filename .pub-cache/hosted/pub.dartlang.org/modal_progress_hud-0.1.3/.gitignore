@@ -1,0 +1,16 @@
+.DS_Store
+.dart_tool/
+.idea/
+
+.packages
+.pub/
+
+build/
+ios/.generated/
+ios/Flutter/Generated.xcconfig
+ios/Runner/GeneratedPluginRegistrant.*
+
+# coverage
+coverage/
+example/coverage/
+lcov.info

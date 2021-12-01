@@ -1,0 +1,17 @@
+name: expandable_slider
+description: A Flutter slider that can be expanded to select values with more precision.
+version: 2.0.0
+homepage: https://github.com/drogel/expandable_slider
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:

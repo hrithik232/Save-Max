@@ -1,0 +1,17 @@
+language: dart
+
+dart:
+  - dev
+  - 2.6.0
+
+dart_task:
+- test
+- dartanalyzer: --fatal-infos --fatal-warnings .
+- dartfmt
+
+branches:
+  only: [master]
+
+cache:
+  directories:
+  - $HOME/.pub-cache

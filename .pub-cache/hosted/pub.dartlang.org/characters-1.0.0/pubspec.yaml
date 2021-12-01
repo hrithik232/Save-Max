@@ -1,0 +1,10 @@
+name: characters
+version: 1.0.0
+description: String replacement with operations that are Unicode/grapheme cluster aware.
+homepage: https://www.github.com/dart-lang/characters
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+dev_dependencies:
+  test: "^1.6.0"
+  pedantic: ^1.9.0

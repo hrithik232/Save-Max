@@ -1,0 +1,55 @@
+name: auth_buttons
+description: Auth Buttons is a flutter widget library, include buttons for authenticating with the most popular social networks like Google, Facebook, Apple and Twitter.
+version: 1.0.1+4
+homepage: https://github.com/elbeicktalat/flutter_auth_buttons
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.20.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  assets:
+    - packages/auth_buttons/images/default/google.png
+    - packages/auth_buttons/images/default/facebook.png
+    - packages/auth_buttons/images/default/facebook_white.png
+    - packages/auth_buttons/images/default/apple.png
+    - packages/auth_buttons/images/default/apple_white.png
+    - packages/auth_buttons/images/default/twitter.png
+    - packages/auth_buttons/images/default/twitter_white.png
+    - packages/auth_buttons/images/default/github_white.png
+    - packages/auth_buttons/images/default/github_black.png
+    - packages/auth_buttons/images/default/microsoft.png
+    - packages/auth_buttons/images/default/email.png
+    - packages/auth_buttons/images/default/email_white.png
+    - packages/auth_buttons/images/default/huawei.png
+    - packages/auth_buttons/images/default/huawei_white.png
+
+    - packages/auth_buttons/images/outlined/google.png
+    - packages/auth_buttons/images/outlined/microsoft.png
+    - packages/auth_buttons/images/outlined/twitter.png
+    - packages/auth_buttons/images/outlined/twitter_white.png
+    - packages/auth_buttons/images/outlined/email.png
+    - packages/auth_buttons/images/outlined/email_white.png
+    - packages/auth_buttons/images/outlined/apple.png
+    - packages/auth_buttons/images/outlined/apple_white.png
+    - packages/auth_buttons/images/outlined/facebook.png
+    - packages/auth_buttons/images/outlined/facebook_white.png
+    - packages/auth_buttons/images/outlined/huawei.png
+    - packages/auth_buttons/images/outlined/huawei_white.png
+
+    - packages/auth_buttons/images/secondary/google.png
+    - packages/auth_buttons/images/secondary/microsoft.png
+    - packages/auth_buttons/images/secondary/email.png
+    - packages/auth_buttons/images/secondary/email_white.png
+    - packages/auth_buttons/images/secondary/apple.png
+    - packages/auth_buttons/images/secondary/facebook.png
+    - packages/auth_buttons/images/secondary/huawei.png

@@ -1,0 +1,21 @@
+include: package:pedantic/analysis_options.1.9.0.yaml
+
+analyzer:
+  errors:
+    # Increase the severity of the unused_import hint.
+    unused_import: warning
+    # There are currently 10k violations in test/ and tool/.
+    always_declare_return_types: ignore
+    # There are currently 5000 violations in lib/. This just does not fit well
+    # with the analyzer team's style.
+    omit_local_variable_types: ignore
+    # There are currently 3360 violations in lib/.
+    prefer_single_quotes: ignore
+    # There are currently 2000 violations in lib/.
+    unnecessary_this: ignore
+
+linter:
+  rules:
+    - avoid_unused_constructor_parameters
+    - empty_statements
+    - unnecessary_brace_in_string_interps

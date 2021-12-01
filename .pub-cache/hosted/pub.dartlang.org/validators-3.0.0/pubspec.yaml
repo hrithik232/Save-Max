@@ -1,0 +1,9 @@
+name: validators
+version: 3.0.0
+description: String validation and sanitization for Dart.
+homepage: https://github.com/dart-league/validators
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dev_dependencies:
+  test: ^1.16.5

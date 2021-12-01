@@ -1,0 +1,171 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "salihgueler",
+      "name": "Muhammed Salih Guler",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/24432752?v=4",
+      "profile": "http://salih.dev",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "anderscheow",
+      "name": "Anders Cheow",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/11788504?v=4",
+      "profile": "https://github.com/anderscheow",
+      "contributions": [
+        "bug",
+        "ideas"
+      ]
+    },
+    {
+      "login": "r1walz",
+      "name": "Rohit Ashiwal",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/31043830?v=4",
+      "profile": "http://rashiwal.me/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "AdamSGit",
+      "name": "AdamSGit",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6126439?v=4",
+      "profile": "https://github.com/AdamSGit",
+      "contributions": [
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "hemilpanchiwala",
+      "name": "Hemil Panchiwala",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/42446679?v=4",
+      "profile": "https://github.com/hemilpanchiwala",
+      "contributions": [
+        "maintenance",
+        "ideas",
+        "doc",
+        "example"
+      ]
+    },
+    {
+      "login": "yiminghan",
+      "name": "YiMing Han",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/10720534?v=4",
+      "profile": "http://yiminghan.com",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "AadumKhor",
+      "name": "Aayush Malhotra",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/37381075?v=4",
+      "profile": "https://github.com/AadumKhor",
+      "contributions": [
+        "maintenance",
+        "ideas",
+        "bug"
+      ]
+    },
+    {
+      "login": "awhitford",
+      "name": "Anthony Whitford",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/123887?v=4",
+      "profile": "https://anthonywhitford.com/",
+      "contributions": [
+        "ideas",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "aliyoge",
+      "name": "Jordy Wong",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/12035097?v=4",
+      "profile": "http://zzaning.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "SirusCodes",
+      "name": "Darshan Rander",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/50910066?v=4",
+      "profile": "https://github.com/SirusCodes",
+      "contributions": [
+        "ideas",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "nakjemmy",
+      "name": "Nsiah Akuoko Jeremiah",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17760450?v=4",
+      "profile": "https://jemmytech.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "aniketambore",
+      "name": "Aniket Ambore",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/52826253?v=4",
+      "profile": "https://github.com/aniketambore",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "AbhayVAshokan",
+      "name": "Abhay V Ashokan",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/35297280?v=4",
+      "profile": "https://medium.com/@abhayvashokan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ritvij14",
+      "name": "Ritvij Kumar Sharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51456744?v=4",
+      "profile": "https://linktr.ee/ritvij14",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Koniiro",
+      "name": "Koniiro",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81352867?v=4",
+      "profile": "https://github.com/Koniiro",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "CoderInTheWoods",
+      "name": "Kalgi Sheth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25412142?v=4",
+      "profile": "https://github.com/CoderInTheWoods",
+      "contributions": [
+        "code",
+        "example",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Animated-Text-Kit",
+  "projectOwner": "aagarwal1012",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

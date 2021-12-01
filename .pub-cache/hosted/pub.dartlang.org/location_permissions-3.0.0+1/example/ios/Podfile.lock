@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - location_permissions (3.0.0):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - location_permissions (from `.symlinks/plugins/location_permissions/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  location_permissions:
+    :path: ".symlinks/plugins/location_permissions/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  location_permissions: 42abd62dcc866b92e06506772d2cc42d14be7bb0
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.9.1

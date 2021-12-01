@@ -1,0 +1,25 @@
+language: dart
+
+dart:
+  - 2.4.0
+  - dev
+
+dart_task:
+  - test: -p vm
+    xvfb: false
+  # Set concurrency to 1 to avoid flakes on Travis
+  - test: -p firefox -j 1
+  - dartanalyzer: --fatal-infos --fatal-warnings .
+
+matrix:
+  include:
+  - dart: dev
+    dart_task: dartfmt
+
+# Only building master means that we don't run two builds for each pull request.
+branches:
+  only: [master]
+
+cache:
+  directories:
+    - $HOME/.pub-cache

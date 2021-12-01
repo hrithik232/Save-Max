@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "flutter_asset_builder",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2020-08-13T21:37:07.482097Z",
+  "generator": "pub",
+  "generatorVersion": "2.9.1"
+}

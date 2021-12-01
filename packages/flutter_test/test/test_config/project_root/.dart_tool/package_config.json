@@ -1,0 +1,13 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "dummy",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-08-13T21:37:06.325854Z",
+  "generator": "pub",
+  "generatorVersion": "2.9.1"
+}

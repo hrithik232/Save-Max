@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - geocoder (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `/Users/alois/flutter/bin/cache/artifacts/engine/ios`)
+  - geocoder (from `/Users/alois/flutter_geocoder/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "/Users/alois/flutter/bin/cache/artifacts/engine/ios"
+  geocoder:
+    :path: "/Users/alois/flutter_geocoder/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  geocoder: 333b5c474623c8223f367b6ac4846b5f9ea72e85
+
+PODFILE CHECKSUM: 351e02e34b831289961ec3558a535cbd2c4965d2
+
+COCOAPODS: 1.5.2

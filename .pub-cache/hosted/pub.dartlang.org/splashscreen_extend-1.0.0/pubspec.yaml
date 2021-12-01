@@ -1,0 +1,11 @@
+name: splashscreen_extend
+description: A Flutter package which provides a basic SplashScreen with the ability to launch a widget from a future object, display a logo and a loading indicator.
+version: 1.0.0
+homepage: https://github.com/jokuni/flutter-splashscreen-extend
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
